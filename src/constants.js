@@ -1,0 +1,5 @@
+export const ADD_TICKET='ADD_TICKET'
+export const EDIT_TICKET='EDIT_TICKET'
+export const DELETE_TICKET='DELETE_TICKET'
+export const SET_CURRENT='SET_CURRENT'
+export const SAVE_TICKET='SAVE_TICKET'
